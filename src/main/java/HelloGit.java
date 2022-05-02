@@ -8,6 +8,7 @@ public class HelloGit {
         System.out.println("你好，宗乐文");
         System.out.println("2");
         System.out.println(3);
+        System.out.println("稳中有急");
     }
 
 }
