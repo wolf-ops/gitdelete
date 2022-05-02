@@ -6,6 +6,7 @@ public class HelloGit {
         System.out.println("git.hello");
         System.out.println("git-beautiful");
         System.out.println("你好，宗乐文");
+        System.out.println("2");
         System.out.println(3);
     }
 
