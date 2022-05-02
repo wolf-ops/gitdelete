@@ -9,6 +9,7 @@ public class HelloGit {
         System.out.println("2");
         System.out.println(3);
         System.out.println("稳中有急");
+        System.out.println("忙中有亡");
     }
 
 }
