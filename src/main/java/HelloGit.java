@@ -11,6 +11,7 @@ public class HelloGit {
         System.out.println("稳中有急");
         System.out.println("忙中有亡");
         System.out.println("women");
+        System.out.println("没有竞争，将是多么无聊");
     }
 
 }
