@@ -12,6 +12,7 @@ public class HelloGit {
         System.out.println("women");
         System.out.println("没有竞争，将是多么无聊");
         System.out.println("培养一种不达目的不罢休的狠劲");
+        System.out.println("women");
     }
 
 }
